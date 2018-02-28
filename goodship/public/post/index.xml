@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Good Ship Analytics</title>
+    <link>http://goodshipanalytics.com/post/</link>
+    <description>Recent content in Projects on Good Ship Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="http://goodshipanalytics.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monitoring a Financial Portfoilo</title>
+      <link>http://goodshipanalytics.com/post/finanicalportfolio/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goodshipanalytics.com/post/finanicalportfolio/</guid>
+      <description>When managing multiple financial portfolios reporting can often be repeatative. Furthermore interesting market data can be obtained from a variety of online sources that requires understanding different APIs writen in different progmaming languages.</description>
+    </item>
+    
+    <item>
+      <title>Identifying Repeat Donors for Charities</title>
+      <link>http://goodshipanalytics.com/post/charity/</link>
+      <pubDate>Fri, 12 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goodshipanalytics.com/post/charity/</guid>
+      <description>Charities often recieve a large number of single donations from indivudals. Fundraisers will follow up to see if the individual would like to make a repeating donation. The large number of single donations makes following up with each individual prohibtive and so a statistical model has been developed to determine what donor characteristics are most likely to lead to a repeat donation. This allows the fundraiser to priortize their follow-ups and therfore maximise the likelihood of contacting individuals who are interesting in commiting to a repeating donation.</description>
+    </item>
+    
+  </channel>
+</rss>

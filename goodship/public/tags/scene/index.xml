@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scene on Good Ship Analytics</title>
+    <link>http://goodshipanalytics.com/tags/scene/</link>
+    <description>Recent content in Scene on Good Ship Analytics</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 09 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://goodshipanalytics.com/tags/scene/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Monitoring a Financial Portfoilo</title>
+      <link>http://goodshipanalytics.com/post/finanicalportfolio/</link>
+      <pubDate>Fri, 09 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://goodshipanalytics.com/post/finanicalportfolio/</guid>
+      <description>When managing multiple financial portfolios reporting can often be repeatative. Furthermore interesting market data can be obtained from a variety of online sources that requires understanding different APIs writen in different progmaming languages.</description>
+    </item>
+    
+  </channel>
+</rss>
